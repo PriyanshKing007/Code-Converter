@@ -1,0 +1,5 @@
+{
+  "name": "Code Converter",
+  "description": "Convert code between different programming languages using AI.",
+  "requestFramePermissions": []
+}
